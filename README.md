@@ -2,6 +2,7 @@
 https://www.kaggle.com/competitions/playground-series-s4e1/overview
 
 Objective: to predict whether a customer continues with their account or closes it (e.g., churns).
+
 Criteria: Submissions are evaluated on area under the ROC curve between the predicted probability and the observed target.
 
 ## Method
